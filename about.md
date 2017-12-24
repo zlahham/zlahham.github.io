@@ -4,10 +4,28 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+![profile picture](https://avatars1.githubusercontent.com/u/10406173?v=3&s=300)
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+I am a fullstack software engineer looking to carve out a career for myself in this dynamic industry. Earning a BSc in Engineering & Business at Warwick University allowed me to acquire and hone a wide range of skills and garnered in me a renewed appreciation for the way software and technology drive development across the wider industrial and sectoral landscape. Upon graduation, I joined Makers Academy, where I learned how to craft clean, well tested software while pair programming and working in an agile manner. This ultimately lead me to work in one of the best SaaS companies in the MENA region, BoundlessHR, where I introduced TDD and other industry leading methodologies as part of the stack. I am now undertaking the next challenge in my career as a postgraduate student, where I will be focusing on supplementing my experience in the industry with the academic offerings at UCL.
+
+My varied experience, both academic and non-academic have made me highly adaptable and a quick learner that keenly tackles new challenges and opportunities.
+
+I enjoy good design work, doesn't matter if it's on the web, print or even architectural. I also can't survive without multi-tasking.
+Oh, I forgot to mention that I love Ruby and its community.
+
+### Portfolio
+
+If you would like to see some of my work, please visit my [Github]({{ site.links.github }})
+
+I am particularly fond of these two projects:
+- [Unbeatable TicTacToe game]({{ site.links.github }}/tic_tac_toe)
+- [Live voting platform for speakers]({{ site.links.github }}/live-voting)
+
+### Resume
+For a 1-page Resume, please find it [here](../assets/onepage_resume.pdf)
+
+For a multi-page Resume, please find it [here](../assets/multipage_resume.pdf)
+
+### Contact me
+
+[Email](mailto:{{ site.links.email }})
