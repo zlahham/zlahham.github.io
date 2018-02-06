@@ -17,9 +17,14 @@ Oh, I forgot to mention that I love Ruby and its community.
 
 If you would like to see some of my work, please visit my [Github]({{ site.links.github }})
 
-I am particularly fond of these two projects:
-- [Unbeatable TicTacToe game]({{ site.links.github }}/tic_tac_toe)
-- [Live voting platform for speakers]({{ site.links.github }}/live-voting)
+I am particularly fond of the following projects:
+- [TV Kiosks Application with a CMS]({{ site.links.github }}/tv_kiosks)
+- [Cinema Booking System Desktop Application]({{ site.links.github }}/CinemaBookingSystem)
+- [Unbeatable TicTacToe CLI game]({{ site.links.github }}/tic_tac_toe)
+- [Live-voting web platform for speakers]({{ site.links.github }}/live-voting)
+- [Miranda syntax highlighter for vim]({{ site.links.github }}/vim-miranda)
+
+I also gave a TDD talk at BoundlessHR. For privacy reasons, I cannot release the video at this time. However, you can access the content summary [here]({{ site.links.github }}/TDD-talk).
 
 ### Resume
 For a 1-page Resume, please find it [here](../assets/onepage_resume.pdf)
