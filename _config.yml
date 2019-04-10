@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Zaid Lahham
 tagline:          'Consultant | Software Engineer'
-description:      'مرحبا 👋
+description:      'مرحبا 👋'
 url:              https://zaidlahham.me
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
