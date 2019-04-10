@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 ![profile picture](https://avatars1.githubusercontent.com/u/10406173?v=3&s=300)
-During the day, I am a software engineer and consultant at [ThoughtWorks](https://www.thoughtworks.com/), and in the evenings a volunteer teacher at [Code First: Girls](https://www.codefirstgirls.org.uk/) or [CodeBar](https://codebar.io/).
+During the day, I am a software engineer and consultant at [ThoughtWorks](https://www.thoughtworks.com/), and in the evenings, a volunteer teacher at [Code First: Girls](https://www.codefirstgirls.org.uk/) or [CodeBar](https://codebar.io/).
 
 Earning a BSc in Engineering & Business at Warwick University allowed me to acquire and hone a wide range of skills and garnered in me a renewed appreciation for the way software and technology drive development across the wider industrial and sectoral landscape.
 
@@ -32,11 +32,6 @@ I am particularly fond of the following projects:
 - [Miranda syntax highlighter for vim]({{ site.links.github }}/vim-miranda)
 
 I also gave a TDD talk at ZenHR. For confidentiality reasons, I cannot release the video at this time. However, you can access the content summary [here]({{ site.links.github }}/TDD-talk).
-
-/* ### Resume */
-/* For a 1-page Resume, please find it [here](../assets/onepage_resume.pdf) */
-/*  */
-/* For a multi-page Resume, please find it [here](../assets/multipage_resume.pdf) */
 
 ### Contact me
 
