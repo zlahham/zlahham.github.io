@@ -13,7 +13,7 @@ After completing my undergraduate degree, I joined Makers Academy, where I learn
 
 I then returned to the academic space as a postgraduate student at UCL, where I focused on supplementing my experience in the industry with the academic offerings.
 
-My varied experience, both academic and non-academic have made me highly adaptable and a quick learner that keenly tackles new challenges and opportunities and I have been fortunate enought to have worked with a broad spectrum of organisations and teams, from the smallest startups to the largest enterprises.
+My varied experience, both academic and non-academic have made me highly adaptable and a quick learner that keenly tackles new challenges and opportunities and I have been fortunate enough to have worked with a broad spectrum of organisations and teams, from the smallest startups to the largest enterprises.
 
 When it comes to tech, I am an advocate for OSS, test-driven development, 'real' agile processes, and more recently, infrastructure and cloud serverless technologies.
 I live and die by 'Software is a Craft' and you can talk to me for hours about vim, Ruby, or the future of education.
@@ -31,7 +31,11 @@ I am particularly fond of the following projects:
 - [Live-voting web platform for speakers]({{ site.links.github }}/live-voting)
 - [Miranda syntax highlighter for vim]({{ site.links.github }}/vim-miranda)
 
-I also gave a TDD talk at ZenHR. For confidentiality reasons, I cannot release the video at this time. However, you can access the content summary [here]({{ site.links.github }}/TDD-talk).
+### Conferences and Talks
+- I gave my first conference talk, titled "Testing: the love/hate relationship", at [Xpand Conference 2019](http://www.xpandconf.com/schedule). You can find the YouTube recording [here](https://youtu.be/iN-T50YB8IA?t=2)
+- Attended Balkan Ruby 2019
+- Participated in AppSec 101 Training course at ThoughtWorks
+- I also gave a TDD talk at ZenHR. Uou can access the content summary [here]({{ site.links.github }}/TDD-talk).
 
 ### Contact me
 
