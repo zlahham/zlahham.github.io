@@ -35,7 +35,7 @@ I am particularly fond of the following projects:
 - I gave my first conference talk, titled "Testing: the love/hate relationship", at [Xpand Conference 2019](http://www.xpandconf.com/schedule). You can find the YouTube recording [here](https://youtu.be/iN-T50YB8IA?t=2)
 - Attended Balkan Ruby 2019
 - Participated in AppSec 101 Training course at ThoughtWorks
-- I also gave a TDD talk at ZenHR. Uou can access the content summary [here]({{ site.links.github }}/TDD-talk).
+- I also gave a TDD talk at ZenHR. You can access the content summary [here]({{ site.links.github }}/TDD-talk).
 
 ### Contact me
 
