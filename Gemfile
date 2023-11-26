@@ -1,4 +1,4 @@
 source "https://rubygems.org"
-gemspec
+ruby '3.1.4'
 
-gem 'bundler', '~>2.4'
+gem "jekyll-theme-hydeout", "~> 4.1"
