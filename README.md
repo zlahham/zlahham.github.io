@@ -1,6 +1,6 @@
 Personal Website/ Blog
 ======================
 
-http://www.zaidlahham.me
+https://lahham.tech
 
 ![screen shot](assets/readme_screenshot.png)
