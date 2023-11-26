@@ -18,7 +18,9 @@ author:
 
 paginate:         5
 # paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
+                    # Or '/blog/page:num' if you want to move your index page
+
+remote_theme: fongandrew/hydeout
 
 plugins:
   - jekyll-feed
